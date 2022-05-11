@@ -78,13 +78,13 @@
         <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
     </td>
     <td align='center' width="100">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
     </td>
     <td align='center' width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
     </td>
     <td align='center'  width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg">
     </td>
     <td align='center'  width="100">
         <img src="https://github.com/acromondx/acromondx/blob/main/matplotlib.png">
