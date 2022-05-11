@@ -87,12 +87,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
     </td>
     <td align='center'  width="100">
-        <img src="https://github.com/acromondx/acromondx-1/blob/main/matplotlib.png">
+        <img src="https://github.com/acromondx/acromondx/blob/main/matplotlib.png">
     </td>
 </tr>
 <tr>
      <td align='center' width="100">
-        <img src="https://github.com/acromondx/acromondx-1/blob/main/seaborn.png">
+        <img src="https://github.com/acromondx/acromondx/blob/main/seaborn.png">
     </td>
     <td align='center' width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60">
@@ -104,7 +104,7 @@
         <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
     </td>
     <td align='center'  width="100">
-        <img src="https://github.com/acromondx/acromondx-1/blob/main/kaggle_logo.png">
+        <img src="https://github.com/acromondx/acromondx/blob/main/kaggle_logo.png">
     </td>
 </tr>
 </table>
@@ -133,7 +133,7 @@
   <img align="center" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 <a href="https://github.com/acromondx/img-shields-io">
-  <img align="center" src="https://github.com/acromondx/acromondx-1/blob/main/streamlit_logo.png" width="150"/>
+  <img align="center" src="https://github.com/acromondx/acromondx/blob/main/streamlit_logo.png" width="150"/>
 </a>
 </p>
 
@@ -141,8 +141,3 @@
 
 <h2 align="center">📈 Activity</h2>
 <a href="https://github.com/acromondx/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=acromondx&theme=material-palenight" /> </a>
-
-<!---
-acromondx/acromondx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
