@@ -14,7 +14,7 @@
   <a href="https://twitter.com/acromondx">
   <img align="center" src="https://img.shields.io/twitter/follow/acromondx?label=Twitter&logo=twitter&style=for-the-badge" />  
 </a>
-  <a href="https://www.linkedin.com/in/acroondx/">
+  <a href="https://www.linkedin.com/in/acromondx/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="https://www.kaggle.com/acromondx">
