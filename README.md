@@ -21,18 +21,13 @@
   <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
-  <a href="https://github.com/acromondx">
-  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-  <a href="https://instagram.com/acromondx">
-  <img align="center" src="https://img.shields.io/badge/acromondx-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
+
 </p>
 
 <h2 align="center">✍ Follow My Blog </h2>
 <p align="center">
-  <a href="https://acromondx.medium.com/">
-  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://acromondx.hashnode.dev/">
+  <img align="center" src="https://img.shields.io/badge/hashnode-3f31f7?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 </p>
 
@@ -53,22 +48,12 @@
 </p>
 
 
-<h3 align="center"> Visitors count </h3>
-<p align="center">
-  <a href="https://github.com/acromondx/github-profile-count">
-    <img align="center" src="https://profile-counter.glitch.me/{acromondx}/count.svg" />
-    </a>
-  </p>
-
-
 <!--Github Stats-->
 <h2 align="center">⚡ Github</h2>
 <a href="https://github.com/acromondx/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acromondx&theme=blue-green&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acromondx&theme=tokyonight&show_icons=true)" />
 </a>
-<a href="https://github.com/acromondx/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acromondx&theme=chartreuse-dark" />
-</a>
+
 
 <h2 align="center">🛠 Languages and Tools</h2>
 
@@ -108,36 +93,3 @@
     </td>
 </tr>
 </table>
-
-
-
-<h2 align="center"> 🌱 Learning Resources </h2>
-<p align="center">
-  <a href="https://github.com/acromondx/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/acromondx/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-</p>
-
-
-
-<!-- Journal and Hosting-->
-<h2 align="center"> 📃 Productivity & Cloud Platforms ☁ </h2>
-<p align="center">
-  <a href="https://github.com/acromondx/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</a>
-<a href="https://github.com/acromondx/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-</a>
-<a href="https://github.com/acromondx/img-shields-io">
-  <img align="center" src="https://github.com/acromondx/acromondx/blob/main/streamlit_logo.png" width="150"/>
-</a>
-</p>
-
-
-
-<h2 align="center">📈 Activity</h2>
-<a href="https://github.com/acromondx/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=acromondx&theme=material-palenight" /> </a>
