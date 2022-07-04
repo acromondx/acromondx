@@ -42,8 +42,8 @@
   - 🗾 Fan of Anime and Japan.
   - 🏫 Computer Science Student.
   - 🤗 Always excited to collaborate and growing together.
+  - 💎 I’m currently learning how to make a good cup of coffee ☕ :)
   - 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
-  
   
 </p>
 
