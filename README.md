@@ -36,9 +36,8 @@
 <p align="center">
   
   - 👋 Hello, I'm Gideon
-  - 🤖 Machine Learning Engineer.
-  - 🧠 Currently focusing on Computer Vision and Deep Learning in general.
-  - ❤️‍🔥 Kaggler by heart.
+  - 🤖 Python Dev.
+  - 🧠 Currently focusing on Django & FASTAPI.
   - 🗾 Fan of Anime and Japan.
   - 🏫 Computer Science Student.
   - 🤗 Always excited to collaborate and growing together.
