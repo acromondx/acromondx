@@ -35,60 +35,72 @@
 <h2 align="center"> ABOUT ME </h2>
 <p align="center">
   
-  - 👋 Hello, I'm Gideon
-  - 🤖 Python Dev.
-  - 🧠 Currently focusing on Django & FASTAPI.
-  - 🗾 Fan of Anime and Japan.
-  - 🏫 Computer Science Student.
-  - 🤗 Always excited to collaborate and growing together.
-  - 💎 I’m currently learning how to make a good cup of coffee ☕ :)
-  - 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
+  🔸 👋 Hello, I'm Gideon
+  🔸 🤖 Python Dev.
+  🔸 🧠 Currently focusing on Flutter & FASTAPI.
+  🔸 🗾 Fan of Anime and Japan.
+  🔸 🏫 Computer Science Student.
+  🔸 🤗 Always excited to collaborate and growing together.
+  🔸 💎 I’m currently learning how to make a good cup of coffee ☕ :)
+  🔸 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
   
 </p>
 
 
 <!--Github Stats-->
-<h2 align="center">⚡ Github</h2>
-<a href="https://github.com/acromondx/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acromondx&theme=tokyonight&show_icons=true)" />
-</a>
+<h2 align="center">⚡ GITHUB STATS</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acromondx&theme=transparent&show_icons=true&locale=en" alt="acromondx"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acromondx&theme=transparent&show_icons=true&locale=en&layout=compact" alt="acromondx"/>
+</p>
 
 
 <h2 align="center">🛠 Languages and Tools</h2>
 
 <table width="100" align="center">
 <tr>
-    <td align='center' width="100">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
-    </td>
-    <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
-    </td>
-    <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
+    <td align='center'  width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
     </td>
     <td align='center'  width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+    </td>    <td align='center'  width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    </td>
+    <td align='center' width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+    </td>
+    <td align='center' width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+    </td>
+    <td align='center' width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
     </td>
     <td align='center'  width="100">
-        <img src="https://github.com/acromondx/acromondx/blob/main/matplotlib.png">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
     </td>
+
 </tr>
 <tr>
      <td align='center' width="100">
-        <img src="https://github.com/acromondx/acromondx/blob/main/seaborn.png">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     </td>
     <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="60">
     </td>
     <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="60">
     </td>
     <td align='center'  width="100">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
     </td>
     <td align='center'  width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+    </td>    <td align='center'  width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+    </td>    <td align='center'  width="100">
         <img src="https://github.com/acromondx/acromondx/blob/main/kaggle_logo.png">
-    </td>
+    </td>  
 </tr>
 </table>
