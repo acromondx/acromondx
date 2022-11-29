@@ -24,13 +24,6 @@
 
 </p>
 
-<h2 align="center">✍ Follow My Blog </h2>
-<p align="center">
-  <a href="https://acromondx.hashnode.dev/">
-  <img align="center" src="https://img.shields.io/badge/hashnode-3f31f7?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-</p>
-
 <!-- About me section-->
 <h2 align="center"> ABOUT ME </h2>
 <p align="center">
@@ -40,6 +33,7 @@
   - 🧠 Currently focusing on Flutter & FASTAPI.
   - 🗾 Fan of Anime and Japan.
   - 🏫 Computer Science Student.
+  - ✍🏽 I share on my thoughts and ideas on my [blog](https://acromondx.me)
   - 🤗 Always excited to collaborate and growing together.
   - 💎 I’m currently learning how to make a good cup of coffee ☕ :)
   - 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
@@ -98,7 +92,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
     </td>
     <td align='center'  width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/tensorflow-original.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
     </td>    
 <!--   <td align='center'  width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/opencv-original.svg">
