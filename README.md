@@ -25,7 +25,7 @@
 </p>
 
 <!-- About me section-->
-<h2 align="center"> ABOUT ME </h2>
+<h2 align="center">👨🏾‍💻 About Me</h2>
 <p align="center">
   
   - 👋 Hello, I'm Gideon
@@ -42,7 +42,7 @@
 
 
 <!--Github Stats-->
-<h2 align="center">⚡ GITHUB STATS</h2>
+<h2 align="center">⚡ GitHub Stats</h2>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=acromondx&theme=transparent&show_icons=true&locale=en" alt="acromondx"/>
 
