@@ -33,7 +33,7 @@
   - 🧠 Currently focusing on Flutter & FASTAPI.
   - 🗾 Fan of Anime and Japan.
   - 🏫 Computer Science Student.
-  - ✍🏽 I share on my thoughts and ideas on my [blog](https://acromondx.me)
+  - ✍🏽 I share my thoughts and ideas on my [blog](https://acromondx.me)
   - 🤗 Always excited to collaborate and growing together.
   - 💎 I’m currently learning how to make a good cup of coffee ☕ :)
   - 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
