@@ -35,26 +35,28 @@
 <h2 align="center"> ABOUT ME </h2>
 <p align="center">
   
-  🔸 👋 Hello, I'm Gideon
-  🔸 🤖 Python Dev.
-  🔸 🧠 Currently focusing on Flutter & FASTAPI.
-  🔸 🗾 Fan of Anime and Japan.
-  🔸 🏫 Computer Science Student.
-  🔸 🤗 Always excited to collaborate and growing together.
-  🔸 💎 I’m currently learning how to make a good cup of coffee ☕ :)
-  🔸 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
+  - 👋 Hello, I'm Gideon
+  - 🤖 Python Dev.
+  - 🧠 Currently focusing on Flutter & FASTAPI.
+  - 🗾 Fan of Anime and Japan.
+  - 🏫 Computer Science Student.
+  - 🤗 Always excited to collaborate and growing together.
+  - 💎 I’m currently learning how to make a good cup of coffee ☕ :)
+  - 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
   
 </p>
 
 
 <!--Github Stats-->
 <h2 align="center">⚡ GITHUB STATS</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=acromondx&theme=transparent&show_icons=true&locale=en" alt="acromondx"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acromondx&theme=transparent&show_icons=true&locale=en&layout=compact" alt="acromondx"/>
-</p>
+</p> -->
 
+| <a href="https://github.com/acromondx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=acromondx&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="AcromondX's github stats" /></a> | <a href="https://github.com/acromondx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acromondx&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <h2 align="center">🛠 Languages and Tools</h2>
 
@@ -69,17 +71,17 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     </td>
     <td align='center' width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
+    </td>
+    <td align='center' width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
     </td>
-    <td align='center' width="100">
+<!--     <td align='center' width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-    </td>
-    <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
     </td>
     <td align='center'  width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
-    </td>
+    </td> -->
 
 </tr>
 <tr>
@@ -96,11 +98,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
     </td>
     <td align='center'  width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
-    </td>    <td align='center'  width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-    </td>    <td align='center'  width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/tensorflow-original.svg">
+    </td>    
+<!--   <td align='center'  width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/opencv-original.svg">
+    </td>   
+  <td align='center'  width="100">
         <img src="https://github.com/acromondx/acromondx/blob/main/kaggle_logo.png">
-    </td>  
+    </td>   -->
 </tr>
 </table>
