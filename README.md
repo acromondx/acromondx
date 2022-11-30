@@ -49,8 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acromondx&theme=transparent&show_icons=true&locale=en&layout=compact" alt="acromondx"/>
 </p> -->
 
-| <a href="https://github.com/acromondx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=acromondx&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="AcromondX's github stats" /></a> | <a href="https://github.com/acromondx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acromondx&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/acromondx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=acromondx&show_icons=true&theme=transparent&hide_border=true" alt="AcromondX's github stats" /></a> | <a href="https://github.com/acromondx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acromondx&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 <h2 align="center">🛠 Languages and Tools</h2>
 
