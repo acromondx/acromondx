@@ -28,15 +28,9 @@
 <h2 align="center">👨🏾‍💻 About Me</h2>
 <p align="center">
   
-  - 👋 Hello, I'm Gideon
-  - 🤖 Python Dev.
-  - 🧠 Currently focusing on Flutter & FASTAPI.
-  - 🗾 Fan of Anime and Japan.
-  - 🏫 Computer Science Student.
-  - ✍🏽 I share my thoughts and ideas on my [blog](https://acromondx.me)
-  - 🤗 Always excited to collaborate and growing together.
-  - 💎 I’m currently learning how to make a good cup of coffee ☕ :)
-  - 📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
+Hi, I'm Gideon. I'm a Python Developer and a Computer Science student currently focusing on Flutter and FASTAPI. I'm a big fan of Anime, Japan and its culture. I love to share my ideas and thoughts through my [blog](http://acromondx.netlify.com/) and I'm always open to collaborate and grow together with the community.
+
+  📥 Reach out me through my mail: acromondx@gmail.com or [Twitter](https://twitter.com/acromondx).
   
 </p>
 
