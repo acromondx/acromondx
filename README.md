@@ -3,10 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<p align='center'>I'm Gideon and I build software.</p>
-
 <p align='center'>
-Currently building <a href="http://mymedalert.app"><strong>MyMedAlert</strong></a> — a simple medication reminder app focused on helping people stay consistent with their health routines.
+I'm Gideon and I build software. Currently working on <a href="http://mymedalert.app">MyMedAlert</a>.
 </p>
 
 <p align='center'>
