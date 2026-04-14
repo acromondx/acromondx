@@ -4,7 +4,7 @@
 </h2>
 
 <p align='center'>
-I'm Gideon and I build software. Currently working on <a href="http://mymedalert.app">MyMedAlert</a>.
+I'm Gideon and I build software. Currently working on <a href="https://mymedalert.app">MyMedAlert</a>.
 </p>
 
 <p align='center'>
